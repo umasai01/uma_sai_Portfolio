@@ -16,7 +16,7 @@ const skillCategories = [
   {
     title: "Databases",
     icon: Database,
-    skills: ["MySQL", "MSSQL"],
+    skills: ["MySQL", "MSSQL", "PostgreSQL"],
     color: "accent"
   },
   {
@@ -34,7 +34,7 @@ const skillCategories = [
   {
     title: "Concepts",
     icon: Brain,
-    skills: ["OOP", "DSA"],
+    skills: ["OOPS", "DSA"],
     color: "accent"
   },
   {
