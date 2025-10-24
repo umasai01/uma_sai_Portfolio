@@ -3,7 +3,7 @@ import { Download, FileText } from "lucide-react";
 
 const ResumeSection = () => {
 const resumeDownloadUrl =
-  "https://drive.google.com/uc?export=download&id=1PUPLo4BJ9jfmpsuznhiUBJB_e7Ow6qom";
+  "https://drive.google.com/uc?export=download&id=1O48RYKDTzxiknnvtErV4Fpk0kaD8fOP7";
 
 
   const handleDownloadResume = () => {

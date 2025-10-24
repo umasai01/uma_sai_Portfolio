@@ -3,7 +3,7 @@ import { Eye } from "lucide-react";
 
 const HeroSection = () => {
   const resumeViewUrl =
-    "https://drive.google.com/file/d/1PUPLo4BJ9jfmpsuznhiUBJB_e7Ow6qom/view?usp=sharing";
+    "https://drive.google.com/file/d/1O48RYKDTzxiknnvtErV4Fpk0kaD8fOP7/view?usp=sharing";
 
   const handleViewResume = () => {
     window.open(resumeViewUrl, "_blank");
